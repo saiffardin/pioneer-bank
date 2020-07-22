@@ -1,0 +1,53 @@
+h1{
+    padding: 100px;
+}
+
+input{
+    margin: 10px 0;
+}
+
+.login-area{
+    box-shadow: 5px 5px 10px grey;
+    padding: 40px;
+    border-radius: 10px;
+    
+}
+
+#btn-enter{
+    /* width: fit-content; */
+    margin: 5px 0;
+}
+
+/* ------------------------------- */
+
+#second-page{
+    display: none;
+    margin-top: 100px;
+}
+
+.status {
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 20px;
+}
+
+#deposit{
+    background-color: slateblue;
+}
+
+#withdraw{
+    background-color: lightsalmon;
+}
+
+#balance{
+    background-color: orange;
+}
+
+.user-input {
+    /* background-color: palegreen; */
+    box-shadow: 5px 5px 10px grey;
+    margin: 100px 0px;
+    padding: 30px;
+    border-radius: 10px;
+}
